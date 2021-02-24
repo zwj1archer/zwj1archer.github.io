@@ -22,6 +22,7 @@
 ## 应用于编码激励信号中弹性检测的空间-时间域相关性方法研究 2019.12-至今
 -提出了一种基于超声信号空间-时间域相关性编码的超声射频运动估计方法。利用超声信号时空相关性特征，对信号编码从而减少弹性运动检测中的峰值跳变误差，以提高超声弹性成像中位移图像的检测质量。
 # 学术论文（近三年）
+- Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene," 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP), Toronto, 2021. (accepted, EI, CCF B类)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
 - H. Asano, T. Oikawa, W. Zhou, H. Takauji and S. Kaneko,''Existence-and-Absence Detection and OrderDependent Convergent Search for Fast Search of Feature Patterns,'' Journal of the Japan Society for Precision Engineering (JSPE), 2019 (In Japanese, Accepted). (EI)
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Background subtraction based on co-occurrence pixel-block pairs for robust object detection in dynamic scenes," IIEEJ transactions on image electronics and visual computing, vol. 5, no. 2, pp. 146–159, 2017.
