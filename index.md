@@ -20,7 +20,7 @@
 - 西南石油大学“启航计划”项目 
 - 针对现实场景中的视频监控应用，特别是复杂场景下的视频监控，通过对场景的特点及信息，进行鲁棒初始化构建。实现一种在光照变化、动态背景、前景间歇运动等复杂场景下的鲁棒背景初始化算法，能够有效的对场景的背景信息进行复原或重构，从而或缺无前景物体信息的完好清晰视频序列。以此背景初始化算法为基础，将其应用于复杂场景下的异常行为检测中，如公共监控场景下的异常行为检测，海上运输安全预警，石油化工码头或工厂安全监控等计算机视觉应用。
 ## 应用于编码激励信号中弹性检测的空间-时间域相关性方法研究 2019.12-至今
--提出了一种基于超声信号空间-时间域相关性编码的超声射频运动估计方法。利用超声信号时空相关性特征，对信号编码从而减少弹性运动检测中的峰值跳变误差，以提高超声弹性成像中位移图像的检测质量。
+- 提出了一种基于超声信号空间-时间域相关性编码的超声射频运动估计方法。利用超声信号时空相关性特征，对信号编码从而减少弹性运动检测中的峰值跳变误差，以提高超声弹性成像中位移图像的检测质量。
 # 学术论文（近三年）
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene," 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP), Toronto, 2021. (accepted, EI, CCF B类)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
