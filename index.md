@@ -25,7 +25,7 @@
 - 合作：项圣 浙江工业大学
 - 提出了一种对比度值算子 (contrast value operator：cvo)，可用于鲁棒图像模板匹配及搜索中，其能够有效地从图像中提取出纹理信息并进行更精细的结构呈现。cvo的有效设计，可用于各种机器视觉的工业应用中，如缺陷检测、物体搜索、工件识别等。
 # 学术论文
-- Yuhang He, Sheng Xiang, Wenjun Zhou*, Bo Peng, Ruohan Wang and Linman Li, "A Novel Contrast Operator for Robust Object Searching,"  CIS' 2021 - 2021 INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND SECURITY(CIS'2021). (accepted, EI)
+- He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313.
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
 - H. Asano, T. Oikawa, W. Zhou, H. Takauji and S. Kaneko,''Existence-and-Absence Detection and OrderDependent Convergent Search for Fast Search of Feature Patterns,'' Journal of the Japan Society for Precision Engineering (JSPE), 2019 (In Japanese, Accepted). (EI)
