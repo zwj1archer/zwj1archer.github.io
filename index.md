@@ -24,6 +24,8 @@
 ## 一种鲁棒对比度特征提取算子研究及其应用  2020.03-至今
 - 合作：项圣 浙江工业大学
 - 提出了一种对比度值算子 (contrast value operator：cvo)，可用于鲁棒图像模板匹配及搜索中，其能够有效地从图像中提取出纹理信息并进行更精细的结构呈现。cvo的有效设计，可用于各种机器视觉的工业应用中，如缺陷检测、物体搜索、工件识别等。
+## 云雾环境下飞行器结冰视觉检测方法研究 2021.01-至今
+-探索云雾环境下飞行器结冰视觉检测方法，采用视觉感知的机制进行云雾环境下结冰的检测与识别。
 # 学术论文
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313.
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
