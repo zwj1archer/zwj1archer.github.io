@@ -27,7 +27,7 @@
 ## 云雾环境下飞行器结冰视觉检测方法研究 2021.01-至今
 - 探索云雾环境下飞行器结冰视觉检测方法，采用视觉感知的机制进行云雾环境下结冰的检测与识别。
 # 学术论文
--Zhou, Wenjun, Xiaoyi Lu, and Yang Wang. "A Robust Pupil Localization via a Novel Parameter Optimization Strategy." Wireless Communications and Mobile Computing 2022 (2022). (SCI)
+ - Zhou, Wenjun, Xiaoyi Lu, and Yang Wang. "A Robust Pupil Localization via a Novel Parameter Optimization Strategy." Wireless Communications and Mobile Computing 2022 (2022). (SCI)
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313.
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
