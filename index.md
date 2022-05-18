@@ -44,6 +44,7 @@
 - 图像处理（特征提取）
 - 计算机视觉（目标提取与识别）
 - 超声信号处理（超声弹性成像）
+- 机器感知
 # 其他
 - SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"及"Computer Vision and Image Understandting"审稿人
 - CCF YOCSEF成都20-21届通讯AC委员
