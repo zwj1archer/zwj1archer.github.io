@@ -33,8 +33,14 @@
 ## 一种鲁棒对比度特征提取算子研究及其应用  2020.03-至今
 - 合作：项圣 浙江工业大学
 - 提出了一种对比度值算子 (contrast value operator：cvo)，可用于鲁棒图像模板匹配及搜索中，其能够有效地从图像中提取出纹理信息并进行更精细的结构呈现。cvo的有效设计，可用于各种机器视觉的工业应用中，如缺陷检测、物体搜索、工件识别等。
+
 ## 云雾环境下飞行器结冰视觉检测方法研究 2022.01-至今
+-中国空气动力研究与发展中心 结冰与防除冰重点实验室 开放基金项目
 - 探索云雾环境下飞行器结冰视觉检测方法，采用视觉感知的机制进行云雾环境下结冰状况检测与识别。
+
+## 面向公共场景安全的视觉目标异常行为检测研究 2023.01 - 至今
+- 四川省科技厅自然科学基金 面上项目
+- 本研究从视频监控中目标前景的运动特征入手， 根据前景和背景的差异化，从理论分析、算法求解和实验对比等方面展开研究，提出复杂场景下的视觉目标异常行为检测新方法，强调方法在实际应用中的可行性和准确性， 尤其是解决复杂场景下的行为检测鲁棒性， 设计提出适应于复杂光照变化，动态背景情况，高密度人群，目标间歇运动等复杂场景下的特征描述方式，以此构建场景行为模型实现异常行为检测。
 
 # 学术论文
  - Wenjun Zhou, Xiaoyi Lu, Yang Wang, "A Robust Pupil Localization via a Novel Parameter Optimization Strategy", Wireless Communications and Mobile Computing, vol. 2022. (SCI)
@@ -60,3 +66,4 @@
 # 其他
 - SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"及"Computer Vision and Image Understandting"审稿人
 - CCF YOCSEF成都20-21届通讯AC委员
+- 四川省人工智能学会 理事
