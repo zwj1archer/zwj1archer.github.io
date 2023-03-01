@@ -44,7 +44,7 @@
 
 # 学术论文
  - Wenjun Zhou, Xiaoyi Lu, Yang Wang, "A Robust Pupil Localization via a Novel Parameter Optimization Strategy", Wireless Communications and Mobile Computing, vol. 2022. (SCI)
-- He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313.
+- He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
 - H. Asano, T. Oikawa, W. Zhou, H. Takauji and S. Kaneko,''Existence-and-Absence Detection and OrderDependent Convergent Search for Fast Search of Feature Patterns,'' Journal of the Japan Society for Precision Engineering (JSPE), 2019 (In Japanese, Accepted). (EI)
