@@ -57,9 +57,7 @@
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Co-occurrence Pixel Block Pairs Background Subtraction for Object Detection in Dynamic Scene," in Proceeding of the International Symposium on Optomechatronic Technology 2016, November 7-9, 2016, Tokyo, Japan.
 
 # 研究方向
-- 图像处理（特征提取）
-- 计算机视觉（目标检测与识别）
-- 机器感知
+- 智能视觉感知与理解
 - 医学影像分析
 
 # 其他
