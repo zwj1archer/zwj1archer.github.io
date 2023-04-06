@@ -58,7 +58,7 @@
 
 # 研究方向
 - 智能视觉感知与理解
-- 医学影像分析
+- 医学影像智能分析
 
 # 其他
 - SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"及"Computer Vision and Image Understandting"审稿人
