@@ -44,9 +44,9 @@
 
 # 学术论文
 - Zhou W, Yang X, Zuo C, Wang Y, Peng B. Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment. Applied Sciences. 2023; 13(8):5171. (SCI)
-- H. Asano, W. Zhou, H. Takauji and S. Kaneko,''Order-Dependent Convergent Search for Efficient Search of Feature Patterns,'' Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020. (In Japanese) (EI)
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
+- H. Asano, W. Zhou, H. Takauji and S. Kaneko,''Order-Dependent Convergent Search for Efficient Search of Feature Patterns,'' Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020. (In Japanese) (EI)
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Background subtraction based on co-occurrence pixel-block pairs for robust object detection in dynamic scenes," IIEEJ transactions on image electronics and visual computing, vol. 5, no. 2, pp. 146–159, 2017.
 - W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Background Changes." 2018 12th France-Japan and 10th Europe-Asia Congress on Mechatronics. IEEE, 2018, pp. 77-82. (EI)
