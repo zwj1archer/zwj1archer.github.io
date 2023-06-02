@@ -43,7 +43,7 @@
 - 本研究从视频监控中目标前景的运动特征入手， 根据前景和背景的差异化，从理论分析、算法求解和实验对比等方面展开研究，提出复杂场景下的视觉目标异常行为检测新方法，强调方法在实际应用中的可行性和准确性， 尤其是解决复杂场景下的行为检测鲁棒性， 设计提出适应于复杂光照变化，动态背景情况，高密度人群，目标间歇运动等复杂场景下的特征描述方式，以此构建场景行为模型实现异常行为检测。
 
 # 学术论文
-- Ying Qiao, Hong-Min Xu, Wen-Jun Zhou*, Bo Peng*, Bin Hu and Xiao Guo. A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science, 2023. (accepted, SCI)
+- Qiao, Y., Xu, H.-M., Zhou, W.-J., Peng, B., Hu, B., Guo, X., A BiGRU joint optimized attention network for recognition of drilling conditions, Petroleum Science (2023), doi: https://doi.org/10.1016/j.petsci.2023.05.021. (SCI)
 - Zhou W, Yang X, Zuo C, Wang Y, Peng B. Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment. Applied Sciences. 2023; 13(8):5171. (SCI)
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
