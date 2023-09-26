@@ -43,7 +43,7 @@
 - 本研究从视频监控中目标前景的运动特征入手， 根据前景和背景的差异化，从理论分析、算法求解和实验对比等方面展开研究，提出复杂场景下的视觉目标异常行为检测新方法，强调方法在实际应用中的可行性和准确性， 尤其是解决复杂场景下的行为检测鲁棒性， 设计提出适应于复杂光照变化，动态背景情况，高密度人群，目标间歇运动等复杂场景下的特征描述方式，以此构建场景行为模型实现异常行为检测。
 
 # 学术论文
-- Wenjun Zhou, Yuheng Deng, Bo Peng, Sheng Xiang and Shun’ichi Kaneko. "Co-occurrence Spatial-Temporal Model for Adaptive Background Initialization in High-dynamic Complex Scenes", Signal Processing: Image Communication, 2023, 117056, ISSN 0923-5965, https://doi.org/10.1016/j.image.2023.117056. (SCI)
+-Zhou, W.*, Deng, Y., Peng, B., Xiang, S., & Kaneko, S. I. (2023). Co-occurrence spatial-temporal model for adaptive background initialization in high-dynamic complex scenes. Signal Processing: Image Communication, 117056. (SCI)
 - WenJun Zhou, Weicheng Luo, Liang Gong*, Jing Ou and Bo Peng. "Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional
 Connectivity Imaging of rs-fMRI"，The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023. (accepted, EI, CCF C类)
 -  WenJun Zhou*, Tianfei Wang, Yuhang He, Shenghua Xie, Anguo Luo, Bo Peng and Lixue Yin. "Contrast U-Net driven by sufficient texture extraction for carotid plaque detection", Mathematical Biosciences and Engineering, 2023, 20(9): 15623-15640. (SCI)
