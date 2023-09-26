@@ -48,7 +48,7 @@
 Connectivity Imaging of rs-fMRI"，The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023. (accepted, EI, CCF C类)
 -  WenJun Zhou*, Tianfei Wang, Yuhang He, Shenghua Xie, Anguo Luo, Bo Peng and Lixue Yin. "Contrast U-Net driven by sufficient texture extraction for carotid plaque detection", Mathematical Biosciences and Engineering, 2023, 20(9): 15623-15640. (SCI)
 - WenJun Zhou*, Nan Wang, Dong Liang and Bo Peng. "Visual Tracking Based on Efficient Dual-Branch Siamese Network", SMC 2023: IEEE International Conference on Systems, Man, and Cybernetics. (accepted, EI, CCF C类)
-- Qiao, Y., Xu, H.-M., Zhou, W.-J*., Peng, B., Hu, B., Guo, X., "A BiGRU joint optimized attention network for recognition of drilling conditions", Petroleum Science (2023), doi: https://doi.org/10.1016/j.petsci.2023.05.021. (SCI)
+- Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (SCI)
 - Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (SCI)
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
