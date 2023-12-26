@@ -53,7 +53,7 @@
 
 # 学术论文
 - Zhou, W*., Deng, Y., Peng, B., Xiang, S., & Kaneko, S. I. (2023). Co-occurrence spatial-temporal model for adaptive background initialization in high-dynamic complex scenes. Signal Processing: Image Communication, 117056. (SCI)
--Zhou, W., Luo, W., Gong, L*., Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. In: Liu, Q., et al. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore.  (EI, CCF C类)
+- Zhou, W., Luo, W., Gong, L*., Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. In: Liu, Q., et al. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore.  (EI, CCF C类)
 -  WenJun Zhou*, Tianfei Wang, Yuhang He, Shenghua Xie, Anguo Luo, Bo Peng and Lixue Yin. "Contrast U-Net driven by sufficient texture extraction for carotid plaque detection", Mathematical Biosciences and Engineering, 2023, 20(9): 15623-15640. (SCI)
 - WenJun Zhou*, Nan Wang, Dong Liang and Bo Peng. "Visual Tracking Based on Efficient Dual-Branch Siamese Network", SMC 2023: IEEE International Conference on Systems, Man, and Cybernetics. (accepted, EI, CCF C类)
 - Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (SCI)
