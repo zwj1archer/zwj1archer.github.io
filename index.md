@@ -58,7 +58,7 @@
 - WenJun Zhou*, Nan Wang, Dong Liang and Bo Peng. "Visual Tracking Based on Efficient Dual-Branch Siamese Network", SMC 2023: IEEE International Conference on Systems, Man, and Cybernetics. (accepted, EI, CCF C类)
 - Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (SCI)
 - Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (SCI)
-- Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34.
+- Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34. (EI)
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
 - H. Asano, W. Zhou, H. Takauji and S. Kaneko, "Order-Dependent Convergent Search for Efficient Search of Feature Patterns," Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020. (In Japanese) (EI)
