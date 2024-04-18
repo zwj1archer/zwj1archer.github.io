@@ -52,7 +52,7 @@
 器感知领域的研究成果，综合分析其特征和优缺点。该研究将从钻井工况状态判别与识别的理论问题分析和设计出发，构建基于大规模参数数据的石油钻井工况异常识别方法，准确判断钻井工况状态，以达到提高石油钻井作业的安全性、稳定性和可靠性，实现智能可持续的石油钻井工况异常识别系统。
 
 # 学术论文
--Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (SCI)
+-  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (SCI)
 -  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (SCI)
 - Zhou, W., Luo, W., Gong, L.*, Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore. (EI, CCF C类)
 - Wang, Y., Wang, J., Huang, X., Zhou, T., Zhou, W., & Peng, B. (2023, October). Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 330-342). Singapore: Springer Nature Singapore. (EI, CCF C类)
