@@ -55,7 +55,7 @@
 -  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation.  In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
 -  Wenjun Zhou*, Yao Liu, Nan Wang, Dong Liang and Bo Peng. Efficient Siamese Model for Visual Object Tracking with Attention-Based Fusion Modules. Signal Image and Video Processing. 2024. (SCI, accepted)
 -  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo and Bo Peng*. Efficient Microbubble Trajectory Tracking in
-Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking. IEEE TRANSACTIONS ON ULTRASONICS, FERROELECTRICS, AND FREQUENCY CONTROL. 2024. (SCI, accepted)
+Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (T-UFFC). 2024. (SCI, accepted)
 -  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (SCI)
 -  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (SCI)
 - Zhou, W., Luo, W., Gong, L.*, Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore. (EI, CCF C类)
