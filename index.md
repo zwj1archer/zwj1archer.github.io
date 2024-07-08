@@ -52,7 +52,7 @@
 器感知领域的研究成果，综合分析其特征和优缺点。该研究将从钻井工况状态判别与识别的理论问题分析和设计出发，构建基于大规模参数数据的石油钻井工况异常识别方法，准确判断钻井工况状态，以达到提高石油钻井作业的安全性、稳定性和可靠性，实现智能可持续的石油钻井工况异常识别系统。
 
 # 学术论文
--  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation.  In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
+-  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
 -  Wenjun Zhou*, Yao Liu, Nan Wang, Dong Liang and Bo Peng. Efficient Siamese Model for Visual Object Tracking with Attention-Based Fusion Modules. Signal Image and Video Processing. 2024. (SCI, accepted)
 -  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo and Bo Peng*. Efficient Microbubble Trajectory Tracking in
 Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (T-UFFC). 2024. (SCI, accepted)
