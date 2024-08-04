@@ -52,11 +52,11 @@
 
 # 学术论文
 ## 2024年度
--Wenjun Zhou*, Yao Liu, Nan Wang, Yifan Wang and Bo Peng. Dual-Branch Collaborative Siamese Network for Visual Tracking. Digital Signal Processing (2024). (SCI,accepted)
+-Wenjun Zhou*, Yao Liu, Nan Wang, Yifan Wang and Bo Peng. Dual-Branch Collaborative Siamese Network for Visual Tracking. Digital Signal Processing (2024). (SC, IF: 2.9, accepted)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680. (EI, CCF C类)
 -  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (SCI)
--  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024), doi: 10.1109/TUFFC.2024.3424955. (SCI)
+-  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024), doi: 10.1109/TUFFC.2024.3424955. (SCI, IF: 7.7)
 -  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (SCI)
 -  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (SCI)
 ## 2023年度
