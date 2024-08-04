@@ -52,7 +52,7 @@
 
 # 学术论文
 ## 2024年度
--  Wenjun Zhou*, Yao Liu, Nan Wang, Yifan Wang and Bo Peng. Dual-Branch Collaborative Siamese Network for Visual Tracking. Digital Signal Processing (2024). (SC, IF: 2.9, accepted)
+-  Wenjun Zhou*, Yao Liu, Nan Wang, Yifan Wang and Bo Peng. Dual-Branch Collaborative Siamese Network for Visual Tracking. Digital Signal Processing (2024). (## SC, IF: 2.9, accepted)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680. (EI, CCF C类)
 -  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (SCI)
