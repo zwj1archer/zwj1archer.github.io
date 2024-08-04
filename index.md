@@ -51,11 +51,15 @@
 - 本项目旨在建立一种有效的石油钻井工况异常识别方法，以实现钻井工况实时判断并进行异常识别，从而及时发现并处理现场潜在的安全异常问题。该项目结合人工智能技术、大数据分析和机器感知领域的研究成果，综合分析其特征和优缺点。该研究将从钻井工况状态判别与识别的理论问题分析和设计出发，构建基于大规模参数数据的石油钻井工况异常识别方法，准确判断钻井工况状态，以达到提高石油钻井作业的安全性、稳定性和可靠性，实现智能可持续的石油钻井工况异常识别系统。
 
 # 学术论文
+## 2024年度
+-Wenjun Zhou*, Yao Liu, Nan Wang, Yifan Wang and Bo Peng. Dual-Branch Collaborative Siamese Network for Visual Tracking. Digital Signal Processing (2024). (SCI,accepted)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. Enhancing Time Series Classification with Explainable Time-frequency Features Representation. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024).  (EI, CCF C类, accepted)
+-  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680. (EI, CCF C类)
 -  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (SCI)
 -  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024), doi: 10.1109/TUFFC.2024.3424955. (SCI)
 -  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (SCI)
 -  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (SCI)
+## 2023年度
 - Zhou, W., Luo, W., Gong, L.*, Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore. (EI, CCF C类)
 - Wang, Y., Wang, J., Huang, X., Zhou, T., Zhou, W., & Peng, B. (2023, October). Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 330-342). Singapore: Springer Nature Singapore. (EI, CCF C类)
 - Zhou, W.*, Deng, Y., Peng, B., Xiang, S., & Kaneko, S. I. (2023). Co-occurrence spatial-temporal model for adaptive background initialization in high-dynamic complex scenes. Signal Processing: Image Communication, 119, 117056. (SCI, IF: 3.5)
@@ -65,9 +69,12 @@
 - Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (SCI, IF: 5.6)
 - Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (SCI)
 - Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34. (EI)
+ ## 2021年度
 - He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (EI)
 - Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (EI, CCF B类)
+ ## 2020年度
 - H. Asano, W. Zhou, H. Takauji and S. Kaneko, "Order-Dependent Convergent Search for Efficient Search of Feature Patterns," Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020. (In Japanese) (EI)
+## 2016-2019年度
 - W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (SCI, IF: 4.384)
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Background subtraction based on co-occurrence pixel-block pairs for robust object detection in dynamic scenes," IIEEJ transactions on image electronics and visual computing, vol. 5, no. 2, pp. 146–159, 2017.
 - W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Background Changes." 2018 12th France-Japan and 10th Europe-Asia Congress on Mechatronics. IEEE, 2018, pp. 77-82. (EI)
