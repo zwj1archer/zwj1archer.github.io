@@ -65,9 +65,9 @@
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng. "Dual-Branch Collaborative Siamese Network for Visual Tracking." Digital Signal Processing (2024): 104716. (**SCI, IF: 2.9**)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. (2025). Enhancing Time Series Classification with Explainable Time-Frequency Features Representation. In: Lin, Z., et al. Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15031. Springer, Singapore..  (**EI, CCF C类**)
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680. (**EI, CCF C类**)
--  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (**SCI**)
+-  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (**SCI, IF: 2.0**)
 -  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024). (**SCI, IF: 3.0**)
--  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (**SCI**)
+-  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (**SCI, IF: 2.5**)
 -  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (**SCI**)
 
 ## 2023年度
@@ -78,7 +78,7 @@
 - W. Zhou*, N. Wang, D. Liang and B. Peng, "Visual Tracking Based on Efficient Dual-Branch Siamese Network," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 3677-3682. (**EI, CCF C类**)
 - Y. Wang, T. Zhou, P. Yang, W. Zhou and B. Peng, "Neural Implicit 3D Reconstruction with Double Supervision," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 3690-3695.(**EI, CCF C类**)
 - Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (**SCI, IF: 5.6**)
-- Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (**SCI**)
+- Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (**SCI, IF: 2.5**)
 - Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34. (**EI**)
 
 ## 2021年度
