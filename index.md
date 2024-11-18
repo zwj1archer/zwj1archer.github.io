@@ -3,7 +3,7 @@
 ## 博士，讲师，硕士生导师
 ## 邮箱：zhouwenjun@swpu.edu.cn
 ## 地址：成都市新都区新都大道8号 西南石油大学计算机与软件学院 
-## 科研团队：图像处理与并行计算研究中心 暨 智能油气实验室 [https://ippc-lab.github.io/](https://ippc-lab.github.io/)
+## 科研团队：图像处理与并行计算研究中心（智能油气实验室） [https://ippc-lab.github.io/](https://ippc-lab.github.io/)
 # 教育经历
 - 日本北海道大学 系统信息科学 博士 信息科学研究科 2016.10 - 2019.09
   导师：金子 俊一 教授
