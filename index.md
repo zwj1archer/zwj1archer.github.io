@@ -59,6 +59,9 @@
 - 本项目旨在创新构建云边端协同的石油钻井工况异常识别新方法，整合云端强大计算力、边缘端实时处理能力与终端数据采集，对大规模钻井工况数据进行快速分析，实现异常精准识别，以提升石油钻井作业安全性、效率，推动石油工程智能化进程。
   
 # 学术论文
+## 2025年度
+-  Bolin Xiao, Wenjun Zhou*, Tianfei Wang, Quan Zhanga, Bo Peng. (2025). Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network. Digital Signal Processing (2025)  (**SCI, accepted**)
+
 ## 2024年度
 -  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024). (**SCI, IF: 2.9**)
 -  周文俊，杨新龄，左承林，王一帆，彭博. MSFF-GAN: 云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，DOI:10.11834/jig.240343. (**CSCD, CCF 中文B类**)
