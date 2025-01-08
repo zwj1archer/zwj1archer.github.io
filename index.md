@@ -60,7 +60,7 @@
   
 # 学术论文
 ## 2025年度
--  Bolin Xiao, Wenjun Zhou*, Tianfei Wang, Quan Zhanga, Bo Peng. (2025). Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network. Digital Signal Processing (2025)  (**SCI, accepted**)
+-  Bolin Xiao, Wenjun Zhou*, Tianfei Wang, Quan Zhang, Bo Peng. (2025). Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network. Digital Signal Processing (2025)  (**SCI, accepted**)
 
 ## 2024年度
 -  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024). (**SCI, IF: 2.9**)
