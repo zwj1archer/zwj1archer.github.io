@@ -60,7 +60,7 @@
   
 # 学术论文
 ## 2025年度
--  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. (2025). "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988. (**SCI, IF: 2.9**)
+-  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988. (**SCI, IF: 2.9**)
 
 ## 2024年度
 -  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024). (**SCI, IF: 2.9**)
