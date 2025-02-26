@@ -60,6 +60,7 @@
   
 # 学术论文
 ## 2025年度
+-  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025). (**SCI, IF: 3.0**)
 -  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988. (**SCI, IF: 2.9**)
 
 ## 2024年度
