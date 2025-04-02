@@ -60,44 +60,44 @@
   
 # 学术论文
 ## 2025年度
--  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025). (**SCI, IF: 3.0**)
--  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988. (**SCI, IF: 2.9**)
--  Tao Ding, Wenjun Zhou*, Bo Peng. (2025). Enhancing Time Series Classification with Explainable Time-Frequency Features Representation. In: Lin, Z., et al. Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15031. Springer, Singapore..  (**EI, CCF C类**)
+-  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).(**SCI, IF: 3.0**)
+-  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988.(**SCI, IF: 2.9**)
+-  Tao Ding, Wenjun Zhou*, Bo Peng. (2025). Enhancing Time Series Classification with Explainable Time-Frequency Features Representation. In: Lin, Z., et al. Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15031. Springer, Singapore.(**EI, CCF C类**)
      
 ## 2024年度
--  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024). (**SCI, IF: 2.9**)
--  周文俊，杨新龄，左承林，王一帆，彭博. MSFF-GAN: 云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，DOI:10.11834/jig.240343. (**CSCD, CCF 中文B类**)
--  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng. "Dual-Branch Collaborative Siamese Network for Visual Tracking." Digital Signal Processing (2024): 104716. (**SCI, IF: 2.9**)
--  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680. (**EI, CCF C类**)
--  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024). (**SCI, IF: 2.0**)
--  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024). (**SCI, IF: 3.0**)
--  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433. (**SCI, IF: 2.5**)
--  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023. (**SCI**)
+-  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024).(**SCI, IF: 2.9**)
+-  周文俊，杨新龄，左承林，王一帆，彭博. MSFF-GAN: 云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，DOI:10.11834/jig.240343.(**CSCD, CCF 中文B类**)
+-  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng. "Dual-Branch Collaborative Siamese Network for Visual Tracking." Digital Signal Processing (2024): 104716.(**SCI, IF: 2.9**)
+-  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680.(**EI, CCF C类**)
+-  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024).(**SCI, IF: 2.0**)
+-  Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao, Anguo Luo, Jianwen Luo* and Bo Peng*. "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024).(**SCI, IF: 3.0**)
+-  Zhou, W.; Wang, T.; Wu, X.; Zuo, C.; Wang, Y.; Zhang, Q.; Peng, B. Salient Object Detection via Fusion of Multi-Visual Perception. Appl. Sci. 2024, 14, 3433.(**SCI, IF: 2.5**)
+-  WenJun Zhou, Nan Wang, Dong Liang and Bo Peng. (2024) "Precision in Visual Object Tracking: A Dual-Branch Approach", Journal of Electronic Imaging. 33, 2, 023023.(**SCI**)
 
 ## 2023年度
-- Zhou, W., Luo, W., Gong, L.*, Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore. (**EI, CCF C类**)
-- Wang, Y., Wang, J., Huang, X., Zhou, T., Zhou, W., & Peng, B. (2023, October). Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 330-342). Singapore: Springer Nature Singapore. (**EI, CCF C类**)
-- Zhou, W.*, Deng, Y., Peng, B., Xiang, S., & Kaneko, S. I. (2023). Co-occurrence spatial-temporal model for adaptive background initialization in high-dynamic complex scenes. Signal Processing: Image Communication, 119, 117056. (**SCI, IF: 3.5**)
--  WenJun Zhou*, Tianfei Wang, Yuhang He, Shenghua Xie, Anguo Luo, Bo Peng and Lixue Yin. "Contrast U-Net driven by sufficient texture extraction for carotid plaque detection", Mathematical Biosciences and Engineering, 2023, 20(9): 15623-15640. (**SCI**)
-- W. Zhou*, N. Wang, D. Liang and B. Peng, "Visual Tracking Based on Efficient Dual-Branch Siamese Network," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 3677-3682. (**EI, CCF C类**)
+- Zhou, W., Luo, W., Gong, L.*, Ou, J., Peng, B. (2024). Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI. Pattern Recognition and Computer Vision. PRCV 2023. Lecture Notes in Computer Science, vol 14437. Springer, Singapore.(**EI, CCF C类**)
+- Wang, Y., Wang, J., Huang, X., Zhou, T., Zhou, W., & Peng, B. (2023, October). Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) (pp. 330-342). Singapore: Springer Nature Singapore.(**EI, CCF C类**)
+- Zhou, W.*, Deng, Y., Peng, B., Xiang, S., & Kaneko, S. I. (2023). Co-occurrence spatial-temporal model for adaptive background initialization in high-dynamic complex scenes. Signal Processing: Image Communication, 119, 117056.(**SCI, IF: 3.5**)
+-  WenJun Zhou*, Tianfei Wang, Yuhang He, Shenghua Xie, Anguo Luo, Bo Peng and Lixue Yin. "Contrast U-Net driven by sufficient texture extraction for carotid plaque detection", Mathematical Biosciences and Engineering, 2023, 20(9): 15623-15640.(**SCI**)
+- W. Zhou*, N. Wang, D. Liang and B. Peng, "Visual Tracking Based on Efficient Dual-Branch Siamese Network," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 3677-3682.(**EI, CCF C类**)
 - Y. Wang, T. Zhou, P. Yang, W. Zhou and B. Peng, "Neural Implicit 3D Reconstruction with Double Supervision," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 3690-3695.(**EI, CCF C类**)
-- Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science. (**SCI, IF: 5.6**)
-- Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171. (**SCI, IF: 2.5**)
-- Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34. (**EI**)
+- Qiao, Y., Xu, H. M., Zhou, W. J.*, Peng, B., Hu, B., & Guo, X. (2023). A BiGRU joint optimized attention network for recognition of drilling conditions. Petroleum Science.(**SCI, IF: 5.6**)
+- Zhou W, Yang X, Zuo C, Wang Y and Peng B, "Dense-HR-GAN: A High-Resolution GAN Model with Dense Connection for Image Dehazing in Icing Wind Tunnel Environment", Applied Sciences. 2023; 13(8):5171.(**SCI, IF: 2.5**)
+- Yang X, Zhou W, Zuo C, et al. A high-resolution image dehazing GAN model in icing meteorological environment[C]//International Conference on Images, Signals, and Computing (ICISC 2023). SPIE, 2023, 12783: 25-34.(**EI**)
 
 ## 2021年度
-- He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313. (**EI**)
-- Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419. (**EI, CCF B类**)
+- He Y, Xiang S, Zhou W*, et al. A Novel Contrast Operator for Robust Object Searching[C]//2021 17th International Conference on Computational Intelligence and Security (CIS). IEEE, 2021: 309-313.(**EI**)
+- Yuheng Deng, Wenjun Zhou*, Bo Peng, Dong Liang, Shun'ichi Kaneko, "Robust Spatial-Temporal Correlation Model For Background Initialization In Severe Scene,"  ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2415-2419.(**EI, CCF B类**)
 
 ## 2020年度
-- H. Asano, W. Zhou, H. Takauji and S. Kaneko, "Order-Dependent Convergent Search for Efficient Search of Feature Patterns," Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020. (In Japanese) (**EI**)
+- H. Asano, W. Zhou, H. Takauji and S. Kaneko, "Order-Dependent Convergent Search for Efficient Search of Feature Patterns," Journal of the Japan Society for Precision Engineering 86(2):171-176, 2020.(In Japanese)(**EI**)
 
 ## 2016-2019年度
-- W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019. (**SCI, IF: 4.384**)
+- W. Zhou, S. Kaneko, Y. Satoh, M. Hashimoto, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Dynamic Scenes," Signal Processing, 160, pp. 66-79, 2019.(**SCI, IF: 4.384**)
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Background subtraction based on co-occurrence pixel-block pairs for robust object detection in dynamic scenes," IIEEJ transactions on image electronics and visual computing, vol. 5, no. 2, pp. 146–159, 2017.
-- W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Background Changes." 2018 12th France-Japan and 10th Europe-Asia Congress on Mechatronics. IEEE, 2018, pp. 77-82. (**EI**)
+- W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Foreground Detection based on Co-occurrence Background Model with Hypothesis on Degradation Modification in Background Changes." 2018 12th France-Japan and 10th Europe-Asia Congress on Mechatronics. IEEE, 2018, pp. 77-82.(**EI**)
 - W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang,"A Co-occurrence Background Model with Hypothesis on Degradation Modification for Object Detection in Strong Background Changes," in Proceedings of the 24th International Conference on Pattern Recognition (ICPR) on 2018, pp. 1743-1748.(**EI, CCF C类**)
-- W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Co-occurrence background model with hypothesis on degradation modification for robust object detection," in Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, 2018, pp. 266–273. (**EI**)
+- W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Co-occurrence background model with hypothesis on degradation modification for robust object detection," in Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, 2018, pp. 266–273.(**EI**)
 - W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Co-occurrence based Foreground Detection with Hypothesis on Degradation Modification in Severe Imaging Conditions," Precision Engineering Society Fall Conference 2018，September 5-7, 2018, Hakodate, Japan.
 - W. Zhou, S. Kaneko, M. Hashimoto, Y. Satoh, and D. Liang, "Co-occurrence Background Model with Model Modification based on Hypothesis on Degradation for Robust Object Detection," in Proceeding of Vision Engineering Workshop 2017, December 7-8, 2017, Yokohama, Japan.
 - W. Zhou, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Co-occurrence Pixel Block Pairs Background Subtraction for Object Detection by Introduction of Hypothesis-based Modification," in Proceeding of Vision Engineering Workshop 2016, December 8-9, 2016, Yokohama, Japan.
