@@ -60,13 +60,13 @@
   
 # 学术论文
 ## 2025年度
+-周文俊， 杨新龄， 左承林， 王一帆， 彭博. 2025. MSFF-GAN：云雾环境下结冰风洞图像去雾模型. 中国图象图形学报， 30(04):1100-1117 DOI： 10.11834/jig.240343.(**CSCD, CCF 中文B类**)**
 -  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).(**SCI, IF: 3.0**)
 -  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988.(**SCI, IF: 2.9**)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. (2025). Enhancing Time Series Classification with Explainable Time-Frequency Features Representation. In: Lin, Z., et al. Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15031. Springer, Singapore.(**EI, CCF C类**)
      
 ## 2024年度
 -  Peng, B., Lin, W., Zhou, W. et al. Enhanced pediatric thyroid ultrasound image segmentation using DC-Contrast U-Net. BMC Med Imaging 24, 275 (2024).(**SCI, IF: 2.9**)
--  周文俊，杨新龄，左承林，王一帆，彭博. MSFF-GAN: 云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，DOI:10.11834/jig.240343.(**CSCD, CCF 中文B类**)
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng. "Dual-Branch Collaborative Siamese Network for Visual Tracking." Digital Signal Processing (2024): 104716.(**SCI, IF: 2.9**)
 -  W. Zhou, Y. Liu, N. Wang, Y. Wang and B. Peng, "CoSiNet: Dual-Branch Collaborative Siamese Network for Visual Object Tracking," 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Tianjin, China, 2024, pp. 1675-1680.(**EI, CCF C类**)
 -  Zhou, W., Liu, Y., Wang, N., Dong, L., and Bo, P. Efficient Siamese model for visual object tracking with attention-based fusion modules. SIViP (Signal, Image and Video Processing) (2024).(**SCI, IF: 2.0**)
