@@ -60,7 +60,7 @@
   
 # 学术论文
 ## 2025年度
--周文俊， 杨新龄， 左承林， 王一帆， 彭博. 2025. MSFF-GAN：云雾环境下结冰风洞图像去雾模型. 中国图象图形学报， 30(04):1100-1117 DOI： 10.11834/jig.240343.(**CSCD, CCF 中文B类**)**
+- 周文俊，杨新龄，左承林*，王一帆，彭博. 2025. MSFF-GAN:云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，30(04):1100-1117 DOI:10.11834/jig.240343.(**CSCD, CCF 中文B类**)**
 -  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).(**SCI, IF: 3.0**)
 -  B. Xiao, W. Zhou*, T. Wang, Q. Zhang and B. Peng. "Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network." Digital Signal Processing (2025): 104988.(**SCI, IF: 2.9**)
 -  Tao Ding, Wenjun Zhou*, Bo Peng. (2025). Enhancing Time Series Classification with Explainable Time-Frequency Features Representation. In: Lin, Z., et al. Pattern Recognition and Computer Vision. PRCV 2024. Lecture Notes in Computer Science, vol 15031. Springer, Singapore.(**EI, CCF C类**)
