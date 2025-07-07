@@ -111,6 +111,7 @@
 - 智能油气工程
   
 # 其他
-- SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"，"Computer Vision and Image Understandting"及"Digital Signal Processing"审稿人
+- SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"，"Computer Vision and Image Understandting"，"Digital Signal Processing"，"Displays"，"IEEE Transactions on Geoscience
+and Remote Sensing"等期刊审稿人
 - CCF YOCSEF成都20-21届通讯AC委员
 - 四川省人工智能学会 理事
