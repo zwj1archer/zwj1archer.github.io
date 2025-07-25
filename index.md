@@ -60,7 +60,7 @@
   
 # 学术论文
 ## 2025年度
--  Zhou, W., Luo, W., Gong, L.*, and Peng, B. (2025). Enhanced Early Diagnosis of Alzheimer’s Disease with HybridCA-Net: A Multimodal Fusion Approach. Expert Systems with Applications, 128580.(**SCI, IF: 7.5**)
+-  Zhou, W., Luo, W., Gong, L.*, and Peng, B. (2025). Enhanced Early Diagnosis of Alzheimer’s Disease with HybridCA-Net: A Multimodal Fusion Approach. Expert Systems with Applications, 2025: 128580.(**SCI, IF: 7.5**)
 - 王天飞，周文俊*，项圣，贺宇航，彭博. 2025. 基于异常特征对抗学习的工业图像异常检测方法. 浙江大学学报（工学版）.(**CSCD，录用**)
 - 周文俊，杨新龄，左承林*，王一帆，彭博. 2025. MSFF-GAN:云雾环境下结冰风洞图像去雾模型. 中国图象图形学报，30(04):1100-1117 DOI:10.11834/jig.240343.(**CSCD, CCF 中文B类**)
 -  W. Han, W. Zhou, L. Huang, J. Luo and B. Peng, "Tissue Clutter Filtering Methods in Ultrasound Localization Microscopy Based on Complex-valued Networks and Knowledge Distillation," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).(**SCI, IF: 3.0**)
