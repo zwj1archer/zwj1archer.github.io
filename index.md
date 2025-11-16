@@ -64,7 +64,7 @@
   
 # 学术论文
 ## 2025年度
--   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder," in Biomedical Signal Processing and Control. (**SCI, accepted**)
+-   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder," in Biomedical Signal Processing and Control. (**SCI, IF: 4.9 accepted**)
 -   **Wenjun Zhou**, Rui Qu, Weicheng Luo, Hongyu Zhang, Liang Gong*."Identification of Cognitive Brain Diseases Using a Dual-Branch Siamese Network on Structural Magnetic Resonance Imaging Data," in Neurosciences.(**SCI, accepted**)
 -  Yangyi Liu, siyuan Zhang, **Wenjun Zhou***, Yifan Wang, Quan Zhang, Bo Peng."Trend-Season Dual-branch Fusion Network with Harmonic Weighting For Traffic Prediction," in Promet - Traffic & Transportation.(**SCI, accepted**)
 -  **Zhou, W**., Luo, W., Gong, L.*, and Peng, B. Enhanced Early Diagnosis of Alzheimer’s Disease with HybridCA-Net: A Multimodal Fusion Approach. Expert Systems with Applications, 2025: 128580.(**SCI, IF: 7.5**)
