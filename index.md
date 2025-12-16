@@ -64,8 +64,8 @@
   
 # 学术论文
 ## 2025年度
--   Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization", Signal Processing(2025). (**SCI, accepted**)
--   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder," Biomedical Signal Processing and Control (2025). (**SCI, IF: 4.9**)
+-   Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization." Signal Processing (2025): 110442. (**SCI, IF: 3.6**)
+-   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder." Biomedical Signal Processing and Control (2025). (**SCI, IF: 4.9**)
 -   **Zhou W**, Qu R, Luo W, Liang Gong*, et al. "Identification of cognitive brain diseases using a dual-branch siamese network on structural magnetic resonance imaging data." Neuroscience (2025).(**SCI, IF: 2.8**)
 -  Yangyi Liu, siyuan Zhang, **Wenjun Zhou***, Yifan Wang, Quan Zhang, Bo Peng."Trend-Season Dual-branch Fusion Network with Harmonic Weighting For Traffic Prediction," in Promet - Traffic & Transportation.(**SCI, accepted**)
 -  **Zhou, W**., Luo, W., Gong, L.*, and Peng, B. Enhanced Early Diagnosis of Alzheimer’s Disease with HybridCA-Net: A Multimodal Fusion Approach. Expert Systems with Applications, 2025: 128580.(**SCI, IF: 7.5**)
