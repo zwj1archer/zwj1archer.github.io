@@ -113,6 +113,12 @@
 - **W. Zhou**, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Co-occurrence Pixel Block Pairs Background Subtraction for Object Detection by Introduction of Hypothesis-based Modification," in Proceeding of Vision Engineering Workshop 2016, December 8-9, 2016, Yokohama, Japan.
 - **W. Zhou**, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Co-occurrence Pixel Block Pairs Background Subtraction for Object Detection in Dynamic Scene," in Proceeding of the International Symposium on Optomechatronic Technology 2016, November 7-9, 2016, Tokyo, Japan.
 
+# 相关专利
+- 一种多特征融合的图像显著性检测方法，专利号：ZL202310047740.X
+- 一种基于双分支孪生网络结构的目标跟踪方法，专利号：ZL202310049832.1
+- 一种面向复杂场景的鲁棒性及自适应性背景复原方法，专利号：ZL202111568403.2
+- 一种CenterNet与混合注意力相融合的机翼结冰检测方法，专利号：ZL202311385829.3
+  
 # 研究方向
 - 智能视觉感知
 - 医学影像智能分析
