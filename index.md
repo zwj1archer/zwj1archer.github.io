@@ -11,6 +11,11 @@
 - 沈阳化工大学 控制科学与工程 硕士 信息工程学院 2012.09 - 2015.03
 - 四川农业大学 农业电气化与自动化 本科 信息工程技术学院 2008.09 - 2012.06
 
+# 研究方向
+- 智能视觉感知
+- 医学影像智能分析
+- 智能油气工程
+
 # 研究经历
 ## 智能视觉感知方向
 ### 面向动态背景视频下的前景检测方法研究 2015.10-2019.09 
@@ -118,12 +123,7 @@
 - 一种基于双分支孪生网络结构的目标跟踪方法，专利号：ZL202310049832.1
 - 一种面向复杂场景的鲁棒性及自适应性背景复原方法，专利号：ZL202111568403.2
 - 一种CenterNet与混合注意力相融合的机翼结冰检测方法，专利号：ZL202311385829.3
-  
-# 研究方向
-- 智能视觉感知
-- 医学影像智能分析
-- 智能油气工程
-  
+    
 # 其他
 - SCI期刊 "Artificial Intelligence Review"，"Pattern Recognition"，"Computer Vision and Image Understandting"，"Digital Signal Processing"，"Displays"，"IEEE Transactions on Geoscience
 and Remote Sensing"等期刊审稿人
