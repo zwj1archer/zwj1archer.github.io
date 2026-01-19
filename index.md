@@ -68,9 +68,10 @@
 - 本项目旨在创新构建云边端协同的石油钻井工况异常识别新方法，整合云端强大计算力、边缘端实时处理能力与终端数据采集，对大规模钻井工况数据进行快速分析，实现异常精准识别，以提升石油钻井作业安全性、效率，推动石油工程智能化进程。
   
 # 学术论文
+## 2026年度
+-   Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization." Signal Processing (2026): 110442. (**SCI, IF: 3.6**)
+-   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder." Biomedical Signal Processing and Control (2026). (**SCI, IF: 4.9**)
 ## 2025年度
--   Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization." Signal Processing (2025): 110442. (**SCI, IF: 3.6**)
--   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder." Biomedical Signal Processing and Control (2025). (**SCI, IF: 4.9**)
 -   **Zhou W**, Qu R, Luo W, Liang Gong*, et al. "Identification of cognitive brain diseases using a dual-branch siamese network on structural magnetic resonance imaging data." Neuroscience (2025).(**SCI, IF: 2.8**)
 -  Yangyi Liu, siyuan Zhang, **Wenjun Zhou***, Yifan Wang, Quan Zhang, Bo Peng."Trend-Season Dual-branch Fusion Network with Harmonic Weighting For Traffic Prediction," in Promet - Traffic & Transportation.(**SCI, accepted**)
 -  **Zhou, W**., Luo, W., Gong, L.*, and Peng, B."Enhanced Early Diagnosis of Alzheimer’s Disease with HybridCA-Net: A Multimodal Fusion Approach." Expert Systems with Applications (2025): 128580.(**SCI, IF: 7.5**)
