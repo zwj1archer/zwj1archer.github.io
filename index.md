@@ -121,6 +121,7 @@
 - **W. Zhou**, S. Kaneko, D. Liang, M. Hashimoto, and Y. Satoh, "Co-occurrence Pixel Block Pairs Background Subtraction for Object Detection in Dynamic Scene," in Proceeding of the International Symposium on Optomechatronic Technology 2016, November 7-9, 2016, Tokyo, Japan.
 
 # 相关专利
+- 基于双分支网络的磁共振影像分类方法及系统，专利号：ZL202511553233.9
 - 一种多特征融合的图像显著性检测方法，专利号：ZL202310047740.X
 - 一种基于双分支孪生网络结构的目标跟踪方法，专利号：ZL202310049832.1
 - 一种面向复杂场景的鲁棒性及自适应性背景复原方法，专利号：ZL202111568403.2
