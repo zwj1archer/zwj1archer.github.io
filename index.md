@@ -78,6 +78,7 @@
   
 # 学术论文
 ## 2026年度
+-   Tao Ding, **Wenjun Zhou***, Xiyu Chen, Han Yang, Bo Peng*. "E-STAR: Enhanced Shapelet-Integrated Frequency and Temporal Model Representation for Advanced Time Series Classification." International Journal of Data Science and Analytics (2026). (**SCI, accepted**)
 -   Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization." Signal Processing (2026): 110442. (**SCI, IF: 3.6**)
 -   **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder." Biomedical Signal Processing and Control (2026). (**SCI, IF: 4.9**)
   
