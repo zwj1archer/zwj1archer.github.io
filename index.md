@@ -88,7 +88,6 @@
 ## 2026年度
 - **Wenjun Zhou**, Yihan Zhang, Xinlong Yang, Xiyu Chen, Bo Peng*. "A Kalman Adaptive Loss-Driven Deep Learning Model for Multi-Step Pressure Prediction in Hydraulic Fracturing". Computational Geosciences (2026). (**SCI, IF: 2.1, accepted**)
 - Yang Zhou, **Wenjun Zhou*** and Xianfeng Yang. "Listen to the Change: LTCNet for Multimodal Sentiment Analysis with Generalized Contrastive Alignment and Temporal Difference Enhancement." PRCV 2026. (**EI, CCF C类, accepted**)
-- Yang Zhou, **Wenjun Zhou*** and Xianfeng Yang. "Listen to the Change: LTCNet for Multimodal Sentiment Analysis with Generalized Contrastive Alignment and Temporal Difference Enhancement." PRCV 2026. (**EI, CCF C类, accepted**)
 - Tao Ding, **Wenjun Zhou***, Xiyu Chen, Han Yang, Bo Peng*. "E-STAR: Enhanced Shapelet-Integrated Frequency and Temporal Model Representation for Advanced Time Series Classification." International Journal of Data Science and Analytics 22, 197 (2026). (**SCI, IF: 2.8**)
 - Bolin Xiao, **Wenjun Zhou***, Rui Qu, Jiachen Dang, Quan Zhang, Bo Peng. "VQ-CSA: Addressing Overgeneralization in Video Anomaly Detection via Contrastive Feature Discretization." Signal Processing (2026): 110442. (**SCI, IF: 3.6**)
 - **Wenjun Zhou**, Husheng Li, Weicheng Luo, Liang Gong*, and Bo Peng."Interpretable spatio-temporal Graph Learning for Resting-State Functional MRI Based Classification of Chronic Insomnia Disorder." Biomedical Signal Processing and Control (2026). (**SCI, IF: 4.9**)
