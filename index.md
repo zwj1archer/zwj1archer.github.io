@@ -86,7 +86,7 @@
   
 # 学术论文
 ## 2026年度
-- **Wenjun Zhou**, Xinlong Yang, Tao Ding, Xiyu Chen, Yingying Jiang, Bo Peng. "Anomaly Detection of Drilling Overflow Using Shapelet-aware Graph Temporal Network." Engineering Applications of Artificial Intelligence 184 (2026): 116376. (**SCI, IF: 9.0)
+- **Wenjun Zhou**, Xinlong Yang, Tao Ding, Xiyu Chen, Yingying Jiang, Bo Peng. "Anomaly Detection of Drilling Overflow Using Shapelet-aware Graph Temporal Network." Engineering Applications of Artificial Intelligence 184 (2026): 116376. (**SCI, IF: 9.0**)
 - **Wenjun Zhou**, Yihan Zhang, Xinlong Yang, Xiyu Chen, Bo Peng*. "A Kalman adaptive loss-driven deep learning model for multi-step pressure prediction in hydraulic fracturing." Comput Geosci 30, 92 (2026). (**SCI, IF: 2.1**)
 - Yang Zhou, **Wenjun Zhou*** and Xianfeng Yang. "Listen to the Change: LTCNet for Multimodal Sentiment Analysis with Generalized Contrastive Alignment and Temporal Difference Enhancement." PRCV 2026. (**EI, CCF C类, accepted**)
 - Tao Ding, **Wenjun Zhou***, Xiyu Chen, Han Yang, Bo Peng*. "E-STAR: Enhanced Shapelet-Integrated Frequency and Temporal Model Representation for Advanced Time Series Classification." International Journal of Data Science and Analytics 22, 197 (2026). (**SCI, IF: 2.8**)
